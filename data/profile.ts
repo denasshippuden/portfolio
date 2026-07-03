@@ -2,7 +2,7 @@ export const profile = {
   name: "Andre Galante",
   role: "Desenvolvedor Web e Especialista em Automações",
   location: "Brasil",
-  email: "contato@andregalante.dev",
+  email: "uvapretauib@gmail.com",
   whatsapp: "+32 492 92 76 72",
   whatsappUrl: "https://wa.me/32492927672",
   githubUrl: "https://github.com/",
